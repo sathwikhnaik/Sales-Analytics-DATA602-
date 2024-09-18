@@ -7,5 +7,5 @@
 - Abhay Shagoti (121101341)
 
 ## B. Dataset Information
-**Dataset Name:** Video Game Sales
+**Dataset Name:** Video Game Sales<br>
 **Dataset Source:** [Kaggle](https://www.kaggle.com/datasets/gregorut/videogamesales)
