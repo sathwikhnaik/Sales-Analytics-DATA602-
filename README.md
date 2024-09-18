@@ -34,5 +34,5 @@
 
 ### 4. Removing Redundant Features:
 
-- We could tentatively remove redundant features like and `Rank` as they don't influence the sales of the video games. Additionally, `Global_Sales` is just the summation of sales in all the regions, so there's an argument for removing the feature as well, depending on the outcome we choose.
+- We could tentatively remove redundant features like `Rank` as they may not influence the sales of the video games. Additionally, `Global_Sales` is just the summation of sales in all the regions, so there's an argument for removing the feature as well, depending on the outcome we choose.
 
